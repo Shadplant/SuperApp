@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperForms", "SuperForms.csproj", "{D34436A7-DF80-42A0-9481-AE41D984EEB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDll", "..\MyDll\MyDll.csproj", "{38DB60B4-FFC5-4074-987B-B5892785EF01}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDll", "..\MyDll\MyDll.csproj", "{5D94415C-AEDD-4DF6-B43A-684A8141194A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D34436A7-DF80-42A0-9481-AE41D984EEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D34436A7-DF80-42A0-9481-AE41D984EEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D34436A7-DF80-42A0-9481-AE41D984EEB6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{38DB60B4-FFC5-4074-987B-B5892785EF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{38DB60B4-FFC5-4074-987B-B5892785EF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{38DB60B4-FFC5-4074-987B-B5892785EF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{38DB60B4-FFC5-4074-987B-B5892785EF01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D94415C-AEDD-4DF6-B43A-684A8141194A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D94415C-AEDD-4DF6-B43A-684A8141194A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D94415C-AEDD-4DF6-B43A-684A8141194A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D94415C-AEDD-4DF6-B43A-684A8141194A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
