@@ -5,7 +5,7 @@ using System.Data.SqlClient;
 
 namespace MyDll
 {
-    public class DapperFacade
+    public class DapperFacade : IDapperFacade
     {
         private const string connetionString = "Data Source=server1;Initial Catalog=SupperAppdb;User Id=student;";
 
